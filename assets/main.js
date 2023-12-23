@@ -35,7 +35,7 @@ function position() {
 }
 
 function abreLink(){
-  window.open('https://www.youtube.com/watch?v=_V4JGACBWRM');
+  window.open('https://youtu.be/6_3TJQnKDUU?si=bwOlRxtT__7t_-94&t=34');
 }
 
 img.addEventListener("click", openCookie)
